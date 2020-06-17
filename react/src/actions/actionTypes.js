@@ -1,0 +1,23 @@
+//Tipo list
+export const GET_TIPOS_REQUEST = 'GET_TIPOS_REQUEST';
+export const GET_TIPOS_SUCCESS = 'GET_TIPOS_SUCCESS';
+
+// Common
+export const SHOW_LOADING = 'SHOW_LOADING';
+export const HIDE_LOADING = 'HIDE_LOADING';
+export const SHOW_SNACKBAR = 'SHOW_SNACKBAR';
+export const HIDE_SNACKBAR = 'HIDE_SNACKBAR';
+
+// Dashboard order
+export const GET_DASHBOARD_ORDERS_REQUEST = 'GET_DASHBOARD_ORDERS_REQUEST';
+export const GET_DASHBOARD_ORDERS_SUCCESS = 'GET_DASHBOARD_ORDERS_SUCCESS';
+
+export default {
+    NEW_MARK: 'NEW_MARK',
+    GAME: {
+      CHOOSE_PLAYER: 'GAME_CHOOSE_PLAYER',
+      VERIFY: 'GAME_VERIFY',
+      RESTART: 'GAME_RESTART',
+      NEXT_PLAYER: 'GAME_NEXT_PLAYER',
+    },
+  };

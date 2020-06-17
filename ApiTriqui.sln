@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTriqui", "ApiTriqui\ApiTriqui.csproj", "{30544050-7FAE-4110-AB52-7CFF3CFF1ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30544050-7FAE-4110-AB52-7CFF3CFF1ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30544050-7FAE-4110-AB52-7CFF3CFF1ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30544050-7FAE-4110-AB52-7CFF3CFF1ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30544050-7FAE-4110-AB52-7CFF3CFF1ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B030F74E-0CA3-4CFD-AF13-C3E13040D5CA}
+	EndGlobalSection
+EndGlobal
